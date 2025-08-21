@@ -82,7 +82,7 @@ const Footer = () => {
               © 2025 FCI Institute of Management. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm mt-2 md:mt-0">
-              Proudly serving Indian students since 2000
+              Proudly serving Indian students since 1999
             </p>
           </div>
         </div>

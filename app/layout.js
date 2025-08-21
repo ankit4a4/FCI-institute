@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'FCI Institute of Management - Premier Education in Dehradun',
-  description: 'FCI Institute of Management, Dehradun - India\'s oldest continuously run educational institution providing academically rigorous education for leadership and community service since 2000.',
+  description: 'FCI Institute of Management, Dehradun - India\'s oldest continuously run educational institution providing academically rigorous education for leadership and community service since 1999.',
   keywords: 'FCI Institute, Management Education, Dehradun, India, Hospitality Management, Business Studies',
   robots: 'index, follow',
   author: 'FCI Institute of Management',

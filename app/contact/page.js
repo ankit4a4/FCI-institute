@@ -31,7 +31,7 @@ export default function Contact() {
   const onSubmit = async (data) => {
     setIsSubmitting(true);
     // Simulate form submission
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    await new Promise((resolve) => setTimeout(resolve, 1999));
     setSubmitStatus("success");
     reset();
     setIsSubmitting(false);

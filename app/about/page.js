@@ -25,7 +25,7 @@ export default function About() {
   ];
 
   const milestones = [
-    { year: "2000", title: "Foundation", description: "FCI Institute established in Dehradun" },
+    { year: "1999", title: "Foundation", description: "FCI Institute established in Dehradun" },
     { year: "1995", title: "First Decade", description: "1000+ students graduated with excellence" },
     { year: "2005", title: "Industry Recognition", description: "Partnerships with major Indian hospitality chains" },
     { year: "2015", title: "International Reach", description: "Launched cruise operations program" },
@@ -116,7 +116,7 @@ export default function About() {
               </h2>
               <div className="space-y-6">
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Since 2000, FCI Institute of Management has stood as a beacon of educational 
+                  Since 1999, FCI Institute of Management has stood as a beacon of educational 
                   excellence in Dehradun, Uttarakhand. As India's oldest continuously run 
                   educational institution in our domain, we have been privileged to serve 
                   thousands of Indian students with unwavering commitment to quality education.
@@ -150,7 +150,7 @@ export default function About() {
               />
               <div className="absolute -bottom-6 -right-6 bg-blue-600 text-white p-6 rounded-xl shadow-xl">
                 <div className="text-sm font-semibold">Established</div>
-                <div className="text-2xl font-bold">2000</div>
+                <div className="text-2xl font-bold">1999</div>
                 <div className="text-xs">Dehradun, India</div>
               </div>
             </motion.div>
