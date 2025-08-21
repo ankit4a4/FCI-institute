@@ -143,8 +143,6 @@ const Testimonials = () => {
             </motion.div>
           ))}
         </div>
-
-       
       </div>
     </section>
   );
