@@ -38,7 +38,7 @@ const Navbar = () => {
             </div>
             <div className="flex items-center space-x-2">
               <FiMail className="w-4 h-4" />
-              <span>info@fciinstitute.edu.in</span>
+              <span>principal@fciddn.in</span>
             </div>
           </div>
           <div className="text-xs">📍 Dehradun, Uttarakhand, India</div>

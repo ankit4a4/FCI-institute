@@ -48,7 +48,7 @@ export default function Contact() {
     {
       icon: <FiMail className="w-6 h-6" />,
       title: "Email",
-      details: ["info@fciinstitute.edu.in", "admissions@fciinstitute.edu.in"],
+      details: ["principal@fciddn.in", "admissions@fciinstitute.edu.in"],
       description: "Get in touch via email",
     },
     {
