@@ -49,7 +49,7 @@ const FeaturesSection = () => {
 
   return (
     <section
-      className="py-20 relative overflow-hidden bg-fixed bg-center bg-cover"
+      className="md:py-20 py-8 relative overflow-hidden bg-fixed bg-center bg-cover"
       style={{
         backgroundImage:
           "url('https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1920')",

@@ -38,7 +38,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="relative h-[600px] overflow-hidden">
+    <div className="relative md:h-[600px] h-screen overflow-hidden">
       {/* Background Images */}
       <div className="absolute inset-0">
         {slides.map((slide, index) => (

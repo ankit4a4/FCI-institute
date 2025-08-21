@@ -30,7 +30,7 @@ const Testimonials = () => {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-br from-blue-50 to-indigo-50 relative overflow-hidden">
+    <section className="md:py-20 py-8 bg-gradient-to-br from-blue-50 to-indigo-50 relative overflow-hidden">
       {/* Decorative elements */}
       <div className="absolute top-0 left-0 w-full h-72 bg-gradient-to-r from-blue-400/10 to-indigo-400/10 -skew-y-3 -translate-y-16"></div>
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-blue-300/10 rounded-full -translate-x-1/4 translate-y-1/2"></div>
@@ -144,14 +144,7 @@ const Testimonials = () => {
           ))}
         </div>
 
-        {/* Call to action */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.6 }}
-          viewport={{ once: true }}
-          className="text-center mt-16"
-        ></motion.div>
+       
       </div>
     </section>
   );
